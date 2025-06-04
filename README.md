@@ -33,19 +33,4 @@ Sistema desktop para **gestão de frotas de veículos** e **cadastro de funcion�
 - **Maven**
 
 ---
-
-## 🗄️ Estrutura do Projeto
-
-src/
-├── Model/
-│ ├── Frota.java
-│ ├── Funcionario.java
-│ └── DAOs e TableModels
-├── View/
-│ ├── MenuPrincipal.java
-│ ├── ViewFrota.java
-│ └── ViewFuncionario.java
-└── Conexao.java
-
----
 ##🚀 Obrigada por visitar!**
