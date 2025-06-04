@@ -31,6 +31,3 @@ Sistema desktop para **gestão de frotas de veículos** e **cadastro de funcion�
 - **Swing**  
 - **MySQL**  
 - **Maven**
-
----
-## 🚀 Obrigada por visitar!
