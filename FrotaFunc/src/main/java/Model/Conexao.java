@@ -15,7 +15,7 @@ import java.sql.SQLException;
 public class Conexao {
     private static final String URL = "jdbc:mysql://localhost:3306/cadastro";
     private static final String USUARIO = "root";
-    private static final String SENHA = "@Lee.2110Ferreira"; // ou a senha que você definiu
+    private static final String SENHA = "";
 
     public static Connection getConexao() throws SQLException {
         return DriverManager.getConnection(URL, USUARIO, SENHA);
