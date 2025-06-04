@@ -36,3 +36,30 @@ Sistema desktop para **gestão de frotas de veículos** e **cadastro de funcion�
 
 ## 🗄️ Estrutura do Projeto
 
+src/
+├── Model/
+│ ├── Frota.java
+│ ├── Funcionario.java
+│ └── DAOs e TableModels
+├── View/
+│ ├── MenuPrincipal.java
+│ ├── ViewFrota.java
+│ └── ViewFuncionario.java
+└── Conexao.java
+
+---
+
+**Sobre**
+Este projeto foi realizado como atividade prática para consolidar os aprendizados de POO, interfaces gráficas, banco de dados e estruturas MVC.
+
+**Autora**
+Letícia Ferreira
+💻 Estudante de Ciência da Computação — 2º semestre
+
+**Observações**
+Projeto acadêmico, mas seguindo boas práticas de desenvolvimento.
+Futuras melhorias: relatórios, autenticação de usuário, etc.
+
+---
+
+**🚀 Obrigada por visitar!**
