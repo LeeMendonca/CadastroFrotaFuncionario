@@ -1,6 +1,6 @@
 # Sistema de Cadastro de Frotas e Funcionários
 
-Projeto desenvolvido como parte da disciplina de **Desenvolvimento Orientado a Objetos (DOO)** no **2º semestre** do curso de **Ciência da Computação**.
+Projeto desenvolvido como parte da disciplina de **Desenvolvimento Orientado a Objetos** no **2º semestre** do curso de **Ciência da Computação**.
 
 ---
 
